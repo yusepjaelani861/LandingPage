@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name":"Yusep Jaelani",
+    "description":"I am a mathematics student and my other skill is web development and I use PHP, JS and CSS to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image":"yusep.jpeg",
+    "bio":"My name is Yusep Jaelani, I was born in Bandung, 08 June 2001. I am the last child of three siblings. I used to work as Food and Beverage at YOGYA GROUP after graduating from high school and currently working as a writer at CV. Netzone Media. I studied at Bale University Bandung majoring in Mathematics since 2019. Even though I studied mathematics, I am fond of technology, especially programming.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "yusepjaelani861@mite-mail.my.id",
+    "phone": "(62)895-3899-25850",
+    "github":"https://github.com/yusepjaelani861",
+    "project":"https://github.com/yusepjaelani861",
+    "address":{
+      "street":"Sindangreret Street XX",
+      "city":"Bandung",
+      "state":"Jawa Barat",
+      "zip": "40376"
+    },
+    "website": "http://yusep.my.id",
+    "resumedownload":"#http://yusep.my.id/resume",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://facebook.com/yusep.jaelani.77",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/jaelaniyusep",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/yusepjaelani/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/yusep_jaelani",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/yusepjaelani861",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Bale University Bandung ",
+        "degree":"Bachelor degree in Mathematics",
+        "graduated":"June 2019",
+        "description":"I am the head of BEM Faculty, I have studied statistics, calculus, discrete mathematics, algebra, computing, algorithms, etc."
+      },
+      {
+        "school":"MA Al-Huda Pameungpeuk",
+        "degree":"MIPA",
+        "graduated":"June 2016",
+        "description":"Saya anggota OSIS, Pramuka dan Al-huda Volunteer. Saya juga mengikuti komunitas Bahasa Jepang dan memenangkan perlombaan tingkat nasional. Saya telah mempelajari ilmu organisasi dan keagamaan pada sekolah ini."
+      }
+    ],
+    "work":[
+      {
+        "company":"CV. Netzone Media",
+        "title":"Writer & Website Developer",
+        "years":"April 2021 - Present",
+        "description":"Writing SEO articles, developing websites, keyword research."
+      },
+      {
+        "company":"YOGYA GROUP",
+        "title":"Food & Beverage in Risoles",
+        "years":"May 2019 - July 2019",
+        "description":"Take orders, make orders, deliver orders."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"40%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"85%"
+      },
+      {
+        "name":"PHP",
+        "level":"90%"
+      },
+      {
+        "name":"Swift",
+        "level":"30%"
+      },
+      {
+        "name":"JAVA",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"MiteFansub",
+        "category":"Fansub that I founded myself and my own admin",
+        "image":"mitefansub.png",
+        "url":"https://mitefansub.us/"
+      },
+      {
+        "title":"YusepTech",
+        "category":"Tutorials and Information About Technology",
+        "image":"yuseptech.png",
+        "url":"https://yuseptech.com/"
+      },
+      {
+        "title":"MiteStream",
+        "category":"Website Streaming Anime Subtitle Indonesia",
+        "image":"mitestream.png",
+        "url":"https://mitestream.com/"
+      },
+      {
+        "title":"Yusep Store",
+        "category":"Best VPS and Windows Server Services",
+        "image":"mitehost.png",
+        "url":"https://mitehost.my.id/"
+      },
+      {
+        "title":"Yusep Portofolio",
+        "category":"Portofolio Project",
+        "image":"yusepmy.png",
+        "url":"https://yusep.my.id/"
+      },
+      {
+        "title":"MiteDrive",
+        "category":"Cloud Storage",
+        "image":"mitedrive.png",
+        "url":"https://drive.mitehost.my.id/"
+      },
+      {
+        "title":"Kuliah Matematika",
+        "category":"Website About Mathematics Studies",
+        "image":"kuliahmatematika.png",
+        "url":"https://kuliahmatematika.my.id"
+      },
+      {
+        "title":"Google Drive Direct",
+        "category":"Website Direct Download Google Drive",
+        "image":"gdrive.png",
+        "url":"https://gdrive-direct1.herokuapp.com/"
+      }
+    ]
+  }
+}
